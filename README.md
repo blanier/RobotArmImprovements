@@ -3,11 +3,9 @@ RobotArmImprovements
 
 Make a cheap robotic arm cooler
 
-I recently got one of these: 
+I recently got one of [these off of Amazon] (http://www.amazon.com/gp/product/B0017OFRCY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1): 
 
 ![Robot Arm Pic](http://ecx.images-amazon.com/images/I/51LAkVypvAL.jpg)
-
-http://www.amazon.com/gp/product/B0017OFRCY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1 
 
 and I want to make it cooler.  
 
