@@ -13,6 +13,10 @@ For starters, the remote control is wired, and it really should be wireless.  Ad
 
 I'm starting with the wireless control.  Then I'll move on to limit switches and then positional feedback.
 
+Silly Requirements
+==================
+- No Arduino, Teensy, etc. (we'll see if I live up to that :-) )
+
 TODO
 ====
 
