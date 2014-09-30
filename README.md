@@ -16,6 +16,7 @@ I'm starting with the wireless control.  Then I'll move on to limit switches and
 Silly Requirements
 ==================
 - No Arduino, Teensy, etc. (we'll see if I live up to that :-) )
+- Non-destructive changes to the robot and controler
 
 TODO
 ====
