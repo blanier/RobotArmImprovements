@@ -16,7 +16,7 @@ I'm starting with the wireless control.  Then I'll move on to limit switches and
 Table Of Contents
 =================
 
-1. Initial Theory of Operations
+1. [Initial Theory of Operations] (InitialTheory.md)
 2. Transmitter/Remote Control design 
 3. Receiver/Base Control design
 4. Limit Switch design
