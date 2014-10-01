@@ -15,8 +15,13 @@ pin number | signal     | function
 3          | M3 Control | Elbow [ up/down ]
 4          | M4 Control | Shoulder [ up/down]
 5          | M5 Control | Shoulder [ Rotate left/right ]
-6          | LED        | [ on/off ]
-7          |-3v
+6          | LED        | LED [ on/off ]
+7          |-3v         | Down/Open/Rotate Left
 
-The switches are arranged such that for a given motor, if 
-
+The switches are arranged such that for a given motor, +3V will be routed to the motor if UP is requested, -3V will be routed if DOWN is requested and 0V (floating) will be routed if the switch is in a neutral position.
+```
+   Switch Position Neutral  Switch Position Up              Switch Position Down
+   +3V ---|                 +3V ---|--- +3V Motor FWD       +3V ---| 
+          |-- 0V                   |                               |
+   -3V ---|                 -3V ---|                        -3V ---|-- -3V Motor REV
+```
